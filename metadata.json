@@ -1,0 +1,6 @@
+{
+  "name": "地理系研討會_摘要自動分群系統",
+  "description": "國立臺灣師範大學地理學系研討會議程編排與摘要自動分群系統，基於研究主題與所屬子議題智慧分組論文場次、動態微調議程並具備一鍵銷毀防外流安全防護。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
